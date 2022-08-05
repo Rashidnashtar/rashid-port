@@ -8,11 +8,11 @@ export default function Profile() {
         <div className="profile-details">
           <div className="colz">
             <div className="cols-icon">
-              <a href="https://web.facebook.com/?_rdc=1&_rdr">
+              <a href="https://www.facebook.com/rashid.nashtar.5">
                 <i className="fa fa-facebook-square" />
               </a>
-              <a href="https://www.instagram.com/instructor_ehizeex/">
-                <i className="fa fa-instagram" />
+              <a href="https://www.linkedin.com/in/rashid-nashtar-6a8874233">
+                <i className="fa fa-linkedin" />
               </a>
             </div>
           </div>

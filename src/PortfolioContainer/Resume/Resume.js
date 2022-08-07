@@ -77,13 +77,13 @@ const Resume = (props) => {
       projectLink: "https://crwn-live-rashid.herokuapp.com/",
     },
     {
-      title: "Mobile E-shop ",
+      title: "Social Media App ",
       duration: { fromDate: "x", toDate: "x" },
       description:
-        "An ecommerce application designed to sell products online wth payment system integration",
+        "A social media app with an interactive ui with sign in/up and the ability to share posts and comments",
       subHeading:
-        "Technologies Used:  React Native, Mongo DB, Express Js, Node Js, Redux.",
-      projectLink: "#",
+        "Technologies Used:  React js, Redux, Bootstrap,Firebase as DB",
+      projectLink: "https://rasbook.herokuapp.com/",
     },
     {
       title: "Simple Portofolio Template ",

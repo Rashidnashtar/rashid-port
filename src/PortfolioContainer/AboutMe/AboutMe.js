@@ -15,7 +15,7 @@ export default function AboutMe(props) {
 
   const SCREEN_CONSTSANTS = {
     description:
-      "Full stack web and mobile developer with background knowledge of MERN stacks with redux, along with a knack of building applications with utmost efficiency. Strong professional with a BSC willing to be an asset for an organization.",
+      "Front-End web developer with background knowledge with redux, along with a knack of building applications with utmost efficiency. Strong professional with React willing to be an asset for an organization.",
     highlights: {
       bullets: [
         "Interactive Front End as per the design",

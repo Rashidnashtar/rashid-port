@@ -87,12 +87,11 @@ const Resume = (props) => {
       projectLink: "https://rasbook.herokuapp.com/",
     },
     {
-      title: "Simple Portofolio Template ",
+      title: "Qamous Template ",
       duration: { fromDate: "x", toDate: "x" },
-      description:
-        "simple template with some awsome animations and styling tricks",
-      subHeading: "Technologies Used: Advanced css , Some JavaScript",
-      projectLink: "https://rashidnashtar.github.io/template/#",
+      description: "Template For listing places and popular locations",
+      subHeading: "Technologies Used: React js, Redux , jQuery ",
+      projectLink: "https://qamous.vercel.app/",
     },
   ];
 

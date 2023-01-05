@@ -75,7 +75,7 @@ const Resume = (props) => {
         "An ecommerce application designed to sell products online wth payment system integration",
       subHeading:
         "Technologies Used: React JS, Redux ,Redux Saga , Stripe ,Firebase",
-      projectLink: "https://crwn-live-rashid.herokuapp.com/",
+      projectLink: "https://crwn-clothing-demo.vercel.app/",
     },
     {
       title: "Social Media App ",
@@ -84,7 +84,7 @@ const Resume = (props) => {
         "A social media app with an interactive ui with sign in/up and the ability to share posts and comments",
       subHeading:
         "Technologies Used:  React js, Redux, Bootstrap,Firebase as DB",
-      projectLink: "https://rasbook.herokuapp.com/",
+      projectLink: "https://rasbook.vercel.app/",
     },
     {
       title: "Qamous Template ",
